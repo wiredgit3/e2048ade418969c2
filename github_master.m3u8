@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=768x576
+https://raw.githubusercontent.com/wiredgit3/e2048ade418969c2/refs/heads/master/github_playlist.m3u8?_cb=1754801273
